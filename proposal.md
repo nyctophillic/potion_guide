@@ -41,5 +41,5 @@ Minimal Viable Outcome:
 - Week N (Final)  
   1. Make more graphics.  
   2. Put everything together and do tests and fix any bugs  
-  2. Polish and submit.
+  3. Polish and submit.
 
